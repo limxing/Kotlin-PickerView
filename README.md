@@ -1,5 +1,7 @@
 # Kotlin - PickerView 
 Android选择器-基于RecycleRView
+[![](https://jitpack.io/v/limxing/Kotlin-PickerView.svg)](https://jitpack.io/#limxing/Kotlin-PickerView)
+
 
 <img src="./pickerview.gif" width="320" height="255"/>
 
