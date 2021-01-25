@@ -61,7 +61,7 @@ kotlin
  pickerView.currentItem
 ```
 
-
+效果更好请参考： [DatePickerView](https://github.com/limxing/DatePickerView)
 
 #### License
 Kotlin-PickerView is available under the MIT license.
